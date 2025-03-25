@@ -1,0 +1,205 @@
+,country,iso3Code,region,continent,immigration_flow,immigration_100k
+0,Afghanistan,AFG,South Asia,Asia,82620,215.93528927463473
+1,Albania,ALB,Europe & Central Asia,Europe,5615,198.38096927652023
+2,Algeria,DZA,Middle East & North Africa,Africa,40685,93.3183940948001
+3,American Samoa,ASM,East Asia & Pacific,Asia,0,0.0
+4,Andorra,AND,Europe & Central Asia,Europe,0,0.0
+5,Angola,AGO,Sub-Saharan Africa ,Africa,950,2.884697224760334
+6,Antigua and Barbuda,ATG,Latin America & Caribbean ,North America,720,785.7281217005557
+7,Argentina,ARG,Latin America & Caribbean ,South America,3185,7.092196508788333
+8,Armenia,ARM,Europe & Central Asia,Europe,2075,69.7857241950469
+9,Australia,AUS,East Asia & Pacific,Oceania,16150,63.61724524860669
+10,Austria,AUT,Europe & Central Asia,Europe,910,10.210242926924337
+11,Azerbaijan,AZE,Europe & Central Asia,Europe,2525,25.217694871984243
+12,"Bahamas, The",BHS,Latin America & Caribbean ,North America,2190,555.2833371260791
+13,Bahrain,BHR,Middle East & North Africa,Asia,130,8.673887678158733
+14,Bangladesh,BGD,South Asia,Asia,34580,20.8589225038565
+15,Barbados,BRB,Latin America & Caribbean ,North America,1985,705.7194383042113
+16,Belarus,BLR,Europe & Central Asia,Europe,2300,24.57402234422364
+17,Belgium,BEL,Europe & Central Asia,Europe,4795,41.59841768121007
+18,Belize,BLZ,Latin America & Caribbean ,North America,480,123.7129743015291
+19,Benin,BEN,Sub-Saharan Africa ,Africa,4345,33.681568386689214
+20,Bermuda,BMU,North America,North America,0,0.0
+21,Bhutan,BTN,South Asia,Asia,630,82.09096101966095
+22,Bolivia,BOL,Latin America & Caribbean ,South America,1165,9.938223808864155
+23,Bosnia and Herzegovina,BIH,Europe & Central Asia,Europe,975,29.358241266704226
+24,Botswana,BWA,Sub-Saharan Africa ,Africa,400,17.002991144948478
+25,Brazil,BRA,Latin America & Caribbean ,South America,51115,24.616791483939096
+26,British Virgin Islands,VGB,Latin America & Caribbean ,North America,0,0.0
+27,Brunei Darussalam,BRN,East Asia & Pacific,Asia,5,1.1254069049340651
+28,Bulgaria,BGR,Europe & Central Asia,Europe,2020,29.325169951245996
+29,Burkina Faso,BFA,Sub-Saharan Africa ,Africa,3255,15.350311618989233
+30,Burundi,BDI,Sub-Saharan Africa ,Africa,10995,88.44284575655178
+31,Cabo Verde,CPV,Sub-Saharan Africa ,Africa,10,1.9387519187585396
+32,Cambodia,KHM,East Asia & Pacific,Asia,1950,11.728672146502783
+33,Cameroon,CMR,Sub-Saharan Africa ,Africa,54935,212.2814754986516
+34,Canada,CAN,North America,North America,10615,28.058599466439894
+35,Central African Republic,CAF,Sub-Saharan Africa ,Africa,3100,62.437496415508654
+36,Chad,TCD,Sub-Saharan Africa ,Africa,1725,10.116819946263558
+37,Chile,CHL,Latin America & Caribbean ,South America,4945,25.863671918458717
+38,China,CHN,East Asia & Pacific,Asia,286985,20.424425010375103
+39,Colombia,COL,Latin America & Caribbean ,South America,34280,68.4952196186174
+40,Comoros,COM,Sub-Saharan Africa ,Africa,20,2.5151340330645806
+41,"Congo, Dem. Rep.",COD,Sub-Saharan Africa ,Africa,26825,28.335250130701294
+42,"Congo, Rep.",COG,Sub-Saharan Africa ,Africa,1925,33.8191810052857
+43,Costa Rica,CRI,Latin America & Caribbean ,North America,1720,34.38354403582446
+44,Cote d'Ivoire,CIV,Sub-Saharan Africa ,Africa,18895,66.15438883340525
+45,Croatia,HRV,Europe & Central Asia,Europe,3595,91.02719665384531
+46,Cuba,CUB,Latin America & Caribbean ,North America,8040,72.0093950765233
+47,Curacao,CUW,Latin America & Caribbean ,North America,0,0.0
+48,Cyprus,CYP,Europe & Central Asia,Europe,45,3.4800439297545402
+49,Czechia,CZE,Europe & Central Asia,Europe,2805,26.337299256436072
+50,Denmark,DNK,Europe & Central Asia,Europe,690,11.835544085750747
+51,Djibouti,DJI,Middle East & North Africa,Africa,2515,229.42995664207137
+52,Dominica,DMA,Latin America & Caribbean ,North America,195,287.68116075660146
+53,Dominican Republic,DOM,Latin America & Caribbean ,North America,7020,64.11826696544684
+54,Ecuador,ECU,Latin America & Caribbean ,South America,3950,22.785165631389738
+55,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Africa,30035,27.745892685251977
+56,El Salvador,SLV,Latin America & Caribbean ,North America,6490,103.97130327948561
+57,Equatorial Guinea,GNQ,Sub-Saharan Africa ,Africa,0,0.0
+58,Eritrea,ERI,Sub-Saharan Africa ,Africa,67225,2050.3795565949367
+59,Estonia,EST,Europe & Central Asia,Europe,160,12.005670052859651
+60,Ethiopia,ETH,Sub-Saharan Africa ,Africa,23660,20.13791801266292
+61,Fiji,FJI,East Asia & Pacific,Oceania,1250,136.14249762941876
+62,Finland,FIN,Europe & Central Asia,Europe,815,14.734055384907423
+63,France,FRA,Europe & Central Asia,Europe,81435,120.6491461863562
+64,French Polynesia,PYF,East Asia & Pacific,Oceania,0,0.0
+65,Gabon,GAB,Sub-Saharan Africa ,Africa,480,20.92411917223095
+66,"Gambia, The",GMB,Sub-Saharan Africa ,Africa,570,22.90479861558575
+67,Georgia,GEO,Europe & Central Asia,Europe,1755,47.1749940275248
+68,Germany,DEU,Europe & Central Asia,Europe,11635,14.00880308188972
+69,Ghana,GHA,Sub-Saharan Africa ,Africa,9565,30.292333768027532
+70,Greece,GRC,Europe & Central Asia,Europe,3600,33.84437159286772
+71,Grenada,GRD,Latin America & Caribbean ,North America,885,761.8941031763882
+72,Guatemala,GTM,Latin America & Caribbean ,North America,2410,13.99999905601666
+73,Guinea,GIN,Sub-Saharan Africa ,Africa,3970,30.035905958486328
+74,Guinea-Bissau,GNB,Sub-Saharan Africa ,Africa,0,0.0
+75,Guyana,GUY,Latin America & Caribbean ,South America,4310,538.5647842046822
+76,Haiti,HTI,Latin America & Caribbean ,North America,28015,250.9287959423788
+77,Honduras,HND,Latin America & Caribbean ,North America,3780,37.69276408617483
+78,"Hong Kong SAR, China",HKG,East Asia & Pacific,Asia,24780,333.3636024255633
+79,Hungary,HUN,Europe & Central Asia,Europe,5975,61.403837922283216
+80,Iceland,ISL,Europe & Central Asia,Europe,95,26.148666177181987
+81,India,IND,South Asia,Asia,842425,60.456032620926976
+82,Indonesia,IDN,East Asia & Pacific,Asia,4760,1.7419874836021818
+83,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Asia,82460,94.46665086647204
+84,Iraq,IRQ,Middle East & North Africa,Asia,33030,79.20930005672619
+85,Ireland,IRL,Europe & Central Asia,Europe,16290,326.975271742369
+86,Israel,ISR,Middle East & North Africa,Asia,14175,155.13696240733165
+87,Italy,ITA,Europe & Central Asia,Europe,11140,18.648478552201095
+88,Jamaica,JAM,Latin America & Caribbean ,North America,37040,1310.1997939724974
+89,Japan,JPN,East Asia & Pacific,Asia,10095,8.003359651027832
+90,Jordan,JOR,Middle East & North Africa,Asia,9960,92.64916975623198
+91,Kazakhstan,KAZ,Europe & Central Asia,Asia,3925,20.291021586118656
+92,Kenya,KEN,Sub-Saharan Africa ,Africa,6705,12.963556159245455
+93,Kiribati,KIR,East Asia & Pacific,Oceania,0,0.0
+94,"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Asia,15,0.05752617072840342
+95,"Korea, Rep.",KOR,East Asia & Pacific,Asia,49565,96.02815611797097
+96,Kosovo,XKX,Europe & Central Asia,Europe,1665,93.43920678250791
+97,Kuwait,KWT,Middle East & North Africa,Asia,130,2.9605225140051217
+98,Kyrgyz Republic,KGZ,Europe & Central Asia,Asia,1195,17.980364407631676
+99,Lao PDR,LAO,East Asia & Pacific,Asia,25,0.34295695116894903
+100,Latvia,LVA,Europe & Central Asia,Europe,745,38.99362938308676
+101,Lebanon,LBN,Middle East & North Africa,Asia,24940,422.70825526637987
+102,Lesotho,LSO,Sub-Saharan Africa ,Africa,0,0.0
+103,Liberia,LBR,Sub-Saharan Africa ,Africa,745,14.583504769038514
+104,Libya,LBY,Middle East & North Africa,Africa,4890,70.00587784525487
+105,Liechtenstein,LIE,Europe & Central Asia,Europe,0,0.0
+106,Lithuania,LTU,Europe & Central Asia,Europe,1055,37.359577344550296
+107,Luxembourg,LUX,Europe & Central Asia,Europe,10,1.6011794287672299
+108,"Macao SAR, China",MAC,East Asia & Pacific,Oceania,80,11.949662048620187
+109,Madagascar,MDG,Sub-Saharan Africa ,Africa,2270,7.934266558911521
+110,Malawi,MWI,Sub-Saharan Africa ,Africa,145,0.7512678795036007
+111,Malaysia,MYS,East Asia & Pacific,Asia,3525,10.503159439748067
+112,Maldives,MDV,South Asia,Asia,0,0.0
+113,Mali,MLI,Sub-Saharan Africa ,Africa,2865,13.367629741011855
+114,Malta,MLT,Middle East & North Africa,Europe,10,1.9850264492367946
+115,Marshall Islands,MHL,East Asia & Pacific,Oceania,0,0.0
+116,Mauritania,MRT,Sub-Saharan Africa ,Africa,715,15.742079566689902
+117,Mauritius,MUS,Sub-Saharan Africa ,Africa,8355,660.7284145246374
+118,Mexico,MEX,Latin America & Caribbean ,North America,41480,32.89491361099702
+119,Moldova,MDA,Europe & Central Asia,Europe,4260,161.1562545130135
+120,Monaco,MCO,Europe & Central Asia,Europe,0,0.0
+121,Mongolia,MNG,East Asia & Pacific,Asia,870,26.424218890028666
+122,Montenegro,MNE,Europe & Central Asia,Europe,50,8.059904433713129
+123,Morocco,MAR,Middle East & North Africa,Africa,39235,107.82522060766004
+124,Mozambique,MOZ,Sub-Saharan Africa ,Africa,15,0.04934425271205059
+125,Myanmar,MMR,East Asia & Pacific,Asia,2350,4.448674334447499
+126,Namibia,NAM,Sub-Saharan Africa ,Africa,790,29.30545061906373
+127,Nauru,NRU,East Asia & Pacific,Oceania,0,0.0
+128,Nepal,NPL,South Asia,Asia,12990,45.12137957211255
+129,Netherlands,NLD,Europe & Central Asia,Europe,4655,26.735443475353218
+130,New Caledonia,NCL,East Asia & Pacific,Oceania,0,0.0
+131,New Zealand,NZL,East Asia & Pacific,Oceania,4700,94.11929620794356
+132,Nicaragua,NIC,Latin America & Caribbean ,North America,1775,27.204676047005005
+133,Niger,NER,Sub-Saharan Africa ,Africa,660,2.8243054463232244
+134,Nigeria,NGA,Sub-Saharan Africa ,Africa,119405,56.40019847811063
+135,North Macedonia,MKD,Europe & Central Asia,Europe,860,46.10317904873193
+136,Northern Mariana Islands,MNP,East Asia & Pacific,Oceania,0,0.0
+137,Norway,NOR,Europe & Central Asia,Europe,475,8.85042009799977
+138,Oman,OMN,Middle East & North Africa,Asia,15,0.32502878468460034
+139,Pakistan,PAK,South Asia,Asia,100710,43.15771386368857
+140,Palau,PLW,East Asia & Pacific,Oceania,0,0.0
+141,Panama,PAN,Latin America & Caribbean ,North America,515,12.10747998056103
+142,Papua New Guinea,PNG,East Asia & Pacific,Oceania,10,0.10313876930772264
+143,Paraguay,PRY,Latin America & Caribbean ,South America,390,5.9516137237879345
+144,Peru,PER,Latin America & Caribbean ,South America,5750,17.702279931278518
+145,Philippines,PHL,East Asia & Pacific,Asia,306820,276.0528309038652
+146,Poland,POL,Europe & Central Asia,Europe,7375,19.648663971276264
+147,Portugal,PRT,Europe & Central Asia,Europe,8150,78.68005281458883
+148,Puerto Rico,PRI,Latin America & Caribbean ,North America,0,0.0
+149,Qatar,QAT,Middle East & North Africa,Asia,5,0.1918028542854056
+150,Romania,ROU,Europe & Central Asia,Europe,7285,37.689508936352006
+151,Russian Federation,RUS,Europe & Central Asia,Europe,19800,13.664418395381654
+152,Rwanda,RWA,Sub-Saharan Africa ,Africa,6360,49.20128178622314
+153,Samoa,WSM,East Asia & Pacific,Oceania,0,0.0
+154,San Marino,SMR,Europe & Central Asia,Europe,0,0.0
+155,Sao Tome and Principe,STP,Sub-Saharan Africa ,Africa,0,0.0
+156,Saudi Arabia,SAU,Middle East & North Africa,Asia,2500,8.001022786744874
+157,Senegal,SEN,Sub-Saharan Africa ,Africa,6790,40.99136777787961
+158,Serbia,SRB,Europe & Central Asia,Europe,3955,57.497893394580586
+159,Seychelles,SYC,Sub-Saharan Africa ,Africa,0,0.0
+160,Sierra Leone,SLE,Sub-Saharan Africa ,Africa,575,7.346405036695293
+161,Singapore,SGP,East Asia & Pacific,Asia,2720,48.082209264381085
+162,Sint Maarten (Dutch part),SXM,Latin America & Caribbean ,North America,0,0.0
+163,Slovak Republic,SVK,Europe & Central Asia,Europe,2485,45.663868812942
+164,Slovenia,SVN,Europe & Central Asia,Europe,155,7.408848459413611
+165,Solomon Islands,SLB,East Asia & Pacific,Oceania,20,2.7241187858806883
+166,Somalia,SOM,Sub-Saharan Africa ,Africa,26355,161.15328272118464
+167,South Africa,ZAF,Sub-Saharan Africa ,Africa,15295,25.451825174907402
+168,South Sudan,SSD,Sub-Saharan Africa ,Africa,2160,20.162321859381457
+169,Spain,ESP,Europe & Central Asia,Europe,6540,13.844992056396116
+170,Sri Lanka,LKA,South Asia,Asia,22235,101.98430216891508
+171,St. Lucia,LCA,Latin America & Caribbean ,North America,2655,1494.192066993832
+172,St. Vincent and the Grenadines,VCT,Latin America & Caribbean ,North America,3195,3076.400899811155
+173,Sudan,SDN,Sub-Saharan Africa ,Africa,11300,24.56286382841996
+174,Suriname,SUR,Latin America & Caribbean ,South America,15,2.464564694207082
+175,Sweden,SWE,Europe & Central Asia,Europe,1990,19.36086995490936
+176,Switzerland,CHE,Europe & Central Asia,Europe,2195,25.47782492674654
+177,Syrian Arab Republic,SYR,Middle East & North Africa,Asia,115160,551.3842075957232
+178,Tajikistan,TJK,Europe & Central Asia,Asia,320,3.321349015203799
+179,Tanzania,TZA,Sub-Saharan Africa ,Africa,2065,3.4329300313832976
+180,Thailand,THA,East Asia & Pacific,Asia,4710,6.590581620192274
+181,Timor-Leste,TLS,East Asia & Pacific,Oceania,0,0.0
+182,Togo,TGO,Sub-Saharan Africa ,Africa,4375,51.035697297597125
+183,Tonga,TON,East Asia & Pacific,Oceania,0,0.0
+184,Trinidad and Tobago,TTO,Latin America & Caribbean ,North America,4475,328.40107935711177
+185,Tunisia,TUN,Middle East & North Africa,Africa,25840,217.2290847676921
+186,Turkiye,TUR,Europe & Central Asia,Europe,21520,26.029036708833925
+187,Turkmenistan,TKM,Europe & Central Asia,Asia,105,1.5282965192173463
+188,Turks and Caicos Islands,TCA,Latin America & Caribbean ,North America,0,0.0
+189,Tuvalu,TUV,East Asia & Pacific,Oceania,0,0.0
+190,Uganda,UGA,Sub-Saharan Africa ,Africa,4380,10.014879126496755
+191,Ukraine,UKR,Europe & Central Asia,Europe,33470,76.7265712179639
+192,United Arab Emirates,ARE,Middle East & North Africa,Asia,50,0.5229734113519015
+193,United Kingdom,GBR,Europe & Central Asia,Europe,51375,76.79147662590113
+194,United States,USA,North America,North America,95665,29.043032779557535
+195,Uruguay,URY,Latin America & Caribbean ,South America,335,9.87686424891349
+196,Uzbekistan,UZB,Europe & Central Asia,Asia,1565,4.691541155418741
+197,Vanuatu,VUT,East Asia & Pacific,Oceania,0,0.0
+198,"Venezuela, RB",VEN,Latin America & Caribbean ,South America,15875,54.442763801565356
+199,Viet Nam,VNM,East Asia & Pacific,Asia,41975,43.07141932030851
+200,West Bank and Gaza,PSE,Middle East & North Africa,Asia,6025,126.80309329043003
+201,"Yemen, Rep.",YEM,Middle East & North Africa,Asia,6030,16.909389253506163
+202,Zambia,ZMB,Sub-Saharan Africa ,Africa,620,3.298243919181959
+203,Zimbabwe,ZWE,Sub-Saharan Africa ,Africa,4705,30.48944172665759

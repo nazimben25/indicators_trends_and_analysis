@@ -1,0 +1,218 @@
+iso3Code,country,continent
+ABW,Aruba,North America
+AFG,Afghanistan,Asia
+DZA,Algeria,Africa
+ALB,Albania,Europe
+AND,Andorra,Europe
+ARE,United Arab Emirates,Asia
+ARG,Argentina,South America
+ARM,Armenia,Europe
+ASM,American Samoa,Asia
+ATG,Antigua and Barbuda,North America
+AUS,Australia,Oceania
+AUT,Austria,Europe
+AZE,Azerbaijan,Europe
+AGO,Angola,Africa
+BEL,Belgium,Europe
+BEN,Benin,Africa
+BWA,Botswana,Africa
+BGD,Bangladesh,Asia
+BGR,Bulgaria,Europe
+BHR,Bahrain,Asia
+BHS,"Bahamas, The",North America
+BIH,Bosnia and Herzegovina,Europe
+BLR,Belarus,Europe
+BLZ,Belize,North America
+BMU,Bermuda,North America
+BOL,Bolivia,South America
+BRA,Brazil,South America
+BRB,Barbados,North America
+BRN,Brunei Darussalam,Asia
+BTN,Bhutan,Asia
+BFA,Burkina Faso,Africa
+BDI,Burundi,Africa
+CAN,Canada,North America
+CHE,Switzerland,Europe
+CHI,Channel Islands,Europe
+CHL,Chile,South America
+CHN,China,Asia
+CPV,Cabo Verde,Africa
+CMR,Cameroon,Africa
+CAF,Central African Republic,Africa
+TCD,Chad,Africa
+COL,Colombia,South America
+COM,Comoros,Africa
+COD,"Congo, Dem. Rep.",Africa
+CRI,Costa Rica,North America
+CUB,Cuba,North America
+CUW,Curacao,North America
+CYM,Cayman Islands,North America
+CYP,Cyprus,Europe
+CZE,Czechia,Europe
+DEU,Germany,Europe
+COG,"Congo, Rep.",Africa
+DMA,Dominica,North America
+DNK,Denmark,Europe
+DOM,Dominican Republic,North America
+CIV,Cote d'Ivoire,Africa
+ECU,Ecuador,South America
+DJI,Djibouti,Africa
+EGY,"Egypt, Arab Rep.",Africa
+ESP,Spain,Europe
+EST,Estonia,Europe
+GNQ,Equatorial Guinea,Africa
+FIN,Finland,Europe
+FJI,Fiji,Oceania
+FRA,France,Europe
+FRO,Faroe Islands,Europe
+FSM,"Micronesia, Fed. Sts.",Oceania
+ERI,Eritrea,Africa
+GBR,United Kingdom,Europe
+GEO,Georgia,Europe
+SWZ,Eswatini,Africa
+GIB,Gibraltar,Europe
+ETH,Ethiopia,Africa
+GAB,Gabon,Africa
+GMB,"Gambia, The",Africa
+GHA,Ghana,Africa
+GRC,Greece,Europe
+GRD,Grenada,North America
+GRL,Greenland,Europe
+GTM,Guatemala,North America
+GUM,Guam,Oceania
+GUY,Guyana,South America
+HKG,"Hong Kong SAR, China",Asia
+HND,Honduras,North America
+HRV,Croatia,Europe
+HTI,Haiti,North America
+HUN,Hungary,Europe
+IDN,Indonesia,Asia
+IMN,Isle of Man,Europe
+IND,India,Asia
+IRL,Ireland,Europe
+IRN,"Iran, Islamic Rep.",Asia
+IRQ,Iraq,Asia
+ISL,Iceland,Europe
+ISR,Israel,Asia
+ITA,Italy,Europe
+JAM,Jamaica,North America
+JOR,Jordan,Asia
+JPN,Japan,Asia
+KAZ,Kazakhstan,Asia
+GIN,Guinea,Africa
+KGZ,Kyrgyz Republic,Asia
+KHM,Cambodia,Asia
+KIR,Kiribati,Oceania
+KNA,St. Kitts and Nevis,North America
+KOR,"Korea, Rep.",Asia
+KWT,Kuwait,Asia
+LAO,Lao PDR,Asia
+LBN,Lebanon,Asia
+GNB,Guinea-Bissau,Africa
+KEN,Kenya,Africa
+LCA,St. Lucia,North America
+LIE,Liechtenstein,Europe
+LKA,Sri Lanka,Asia
+LSO,Lesotho,Africa
+LTU,Lithuania,Europe
+LUX,Luxembourg,Europe
+LVA,Latvia,Europe
+MAC,"Macao SAR, China",Oceania
+MAF,St. Martin (French part),North America
+LBR,Liberia,Africa
+MCO,Monaco,Europe
+MDA,Moldova,Europe
+LBY,Libya,Africa
+MDV,Maldives,Asia
+MEX,Mexico,North America
+MHL,Marshall Islands,Oceania
+MKD,North Macedonia,Europe
+MDG,Madagascar,Africa
+MLT,Malta,Europe
+MMR,Myanmar,Asia
+MNE,Montenegro,Europe
+MNG,Mongolia,Asia
+MNP,Northern Mariana Islands,Oceania
+MWI,Malawi,Africa
+MLI,Mali,Africa
+MRT,Mauritania,Africa
+MUS,Mauritius,Africa
+MYS,Malaysia,Asia
+MAR,Morocco,Africa
+NCL,New Caledonia,Oceania
+MOZ,Mozambique,Africa
+NAM,Namibia,Africa
+NIC,Nicaragua,North America
+NLD,Netherlands,Europe
+NOR,Norway,Europe
+NPL,Nepal,Asia
+NRU,Nauru,Oceania
+NZL,New Zealand,Oceania
+OMN,Oman,Asia
+PAK,Pakistan,Asia
+PAN,Panama,North America
+PER,Peru,South America
+PHL,Philippines,Asia
+PLW,Palau,Oceania
+PNG,Papua New Guinea,Oceania
+POL,Poland,Europe
+PRI,Puerto Rico,North America
+PRK,"Korea, Dem. People's Rep.",Asia
+PRT,Portugal,Europe
+PRY,Paraguay,South America
+PSE,West Bank and Gaza,Asia
+PYF,French Polynesia,Oceania
+QAT,Qatar,Asia
+ROU,Romania,Europe
+RUS,Russian Federation,Europe
+NER,Niger,Africa
+SAU,Saudi Arabia,Asia
+NGA,Nigeria,Africa
+RWA,Rwanda,Africa
+SGP,Singapore,Asia
+SLB,Solomon Islands,Oceania
+STP,Sao Tome and Principe,Africa
+SLV,El Salvador,North America
+SMR,San Marino,Europe
+SEN,Senegal,Africa
+SRB,Serbia,Europe
+SYC,Seychelles,Africa
+SLE,Sierra Leone,Africa
+SUR,Suriname,South America
+SVK,Slovak Republic,Europe
+SVN,Slovenia,Europe
+SWE,Sweden,Europe
+SOM,Somalia,Africa
+SXM,Sint Maarten (Dutch part),North America
+ZAF,South Africa,Africa
+SYR,Syrian Arab Republic,Asia
+TCA,Turks and Caicos Islands,North America
+SSD,South Sudan,Africa
+SDN,Sudan,Africa
+THA,Thailand,Asia
+TJK,Tajikistan,Asia
+TKM,Turkmenistan,Asia
+TLS,Timor-Leste,Oceania
+TON,Tonga,Oceania
+TTO,Trinidad and Tobago,North America
+TZA,Tanzania,Africa
+TUR,Turkiye,Europe
+TUV,Tuvalu,Oceania
+TGO,Togo,Africa
+TUN,Tunisia,Africa
+UKR,Ukraine,Europe
+URY,Uruguay,South America
+USA,United States,North America
+UZB,Uzbekistan,Asia
+VCT,St. Vincent and the Grenadines,North America
+VEN,"Venezuela, RB",South America
+VGB,British Virgin Islands,North America
+VIR,Virgin Islands (U.S.),North America
+VNM,Viet Nam,Asia
+VUT,Vanuatu,Oceania
+WSM,Samoa,Oceania
+XKX,Kosovo,Europe
+YEM,"Yemen, Rep.",Asia
+UGA,Uganda,Africa
+ZMB,Zambia,Africa
+ZWE,Zimbabwe,Africa
